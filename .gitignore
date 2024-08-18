@@ -130,3 +130,6 @@ dist
 .pnp.*
 
 node_modules
+
+./study-log.txt
+study-log.txt

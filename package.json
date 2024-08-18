@@ -1,7 +1,7 @@
 {
   "name": "focustrack",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "main": "index.js",
   "description": "A CLI tool for managing study sessions with countdown and stopwatch features",
   "bin": {
@@ -31,6 +31,10 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRamann/focustrack.git"
   },
   "author": "TheRamann",
   "license": "ISC",

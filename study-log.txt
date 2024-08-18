@@ -11,3 +11,4 @@ Study session: 8 seconds
 Study session: 15 seconds
 Study session: 9 seconds
 Study session: 2 seconds
+Study session: 60 seconds
